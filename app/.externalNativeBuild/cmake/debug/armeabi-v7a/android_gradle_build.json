@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"F:/project/NetEase_OPenCV_FaceDetection/app/src/main/cpp/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"E:\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build F:\\project\\NetEase_OPenCV_FaceDetection\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"native-lib-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "native-lib",
+			"buildCommand" : "E:\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build F:\\project\\NetEase_OPenCV_FaceDetection\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target native-lib",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=E:/sdk/android-ndk-r16b/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=E:/sdk/android-ndk-r16b/sysroot  -Dnative_lib_EXPORTS -IF:\\project\\NetEase_OPenCV_FaceDetection\\app\\src\\main\\cpp\\include -isystem E:\\sdk\\android-ndk-r16b\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem E:\\sdk\\android-ndk-r16b\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi-v7a\\include -isystem E:\\sdk\\android-ndk-r16b\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem E:/sdk/android-ndk-r16b/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=19 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -D_STDC_CONSTANT_MACROS -LF:/project/NetEase_OPenCV_FaceDetection/app/src/main/cpp/../jniLibs/armeabi-v7a -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "F:/project/NetEase_OPenCV_FaceDetection/app/src/main/cpp/native-lib.cpp",
+					"workingDirectory" : "F:/project/NetEase_OPenCV_FaceDetection/app/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				}
+			],
+			"output" : "F:/project/NetEase_OPenCV_FaceDetection/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so",
+			"toolchain" : "3741712993"
+		}
+	},
+	"toolchains" : 
+	{
+		"3741712993" : 
+		{
+			"cCompilerExecutable" : "E:/sdk/android-ndk-r16b/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "E:/sdk/android-ndk-r16b/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

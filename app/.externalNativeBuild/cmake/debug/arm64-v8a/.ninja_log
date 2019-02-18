@@ -1,0 +1,20 @@
+# ninja log v5
+1	800	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	6f8bdf85ddaffef9
+804	1647	0	F:/project/NetEase_OPenCV_FaceDetection/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	70e069fc20153de0
+39	4956	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	6f8bdf85ddaffef9
+4964	7319	0	F:/project/NetEase_OPenCV_FaceDetection/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	40a67ec704224cf4
+90	11335	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	6f8bdf85ddaffef9
+6	4729	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	6f8bdf85ddaffef9
+7	793	0	F:/project/NetEase_OPenCV_FaceDetection/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	c9c2a931a3d09296
+7	4285	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	6f8bdf85ddaffef9
+4286	5781	0	F:/project/NetEase_OPenCV_FaceDetection/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	c9c2a931a3d09296
+5	4341	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	6f8bdf85ddaffef9
+4343	5452	0	F:/project/NetEase_OPenCV_FaceDetection/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	c9c2a931a3d09296
+5	5652	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	6f8bdf85ddaffef9
+5653	7260	0	F:/project/NetEase_OPenCV_FaceDetection/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	c9c2a931a3d09296
+70	10819	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	6f8bdf85ddaffef9
+10820	14026	0	F:/project/NetEase_OPenCV_FaceDetection/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	c9c2a931a3d09296
+6	5082	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	6f8bdf85ddaffef9
+5083	6537	0	F:/project/NetEase_OPenCV_FaceDetection/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	c9c2a931a3d09296
+11	5475	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	6f8bdf85ddaffef9
+5477	6615	0	F:/project/NetEase_OPenCV_FaceDetection/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	c9c2a931a3d09296

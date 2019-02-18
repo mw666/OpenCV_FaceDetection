@@ -1,0 +1,3 @@
+F:/project/NetEase_OPenCV_FaceDetection/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/native-lib.dir
+F:/project/NetEase_OPenCV_FaceDetection/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/edit_cache.dir
+F:/project/NetEase_OPenCV_FaceDetection/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/rebuild_cache.dir

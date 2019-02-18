@@ -1,0 +1,5 @@
+# ninja log v5
+1	1082	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	c8a78a9638e11ff8
+1086	2271	0	F:/project/NetEase_OPenCV_FaceDetection/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	97a2c0b9816891a
+7	4964	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	c8a78a9638e11ff8
+4972	6583	0	F:/project/NetEase_OPenCV_FaceDetection/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	145af33eb82b4b65

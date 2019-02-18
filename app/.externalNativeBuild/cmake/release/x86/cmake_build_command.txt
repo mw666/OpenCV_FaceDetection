@@ -1,0 +1,16 @@
+Executable : E:\sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HF:\project\NetEase_OPenCV_FaceDetection\app\src\main\cpp
+-BF:\project\NetEase_OPenCV_FaceDetection\app\.externalNativeBuild\cmake\release\x86
+-DANDROID_ABI=x86
+-DANDROID_PLATFORM=android-19
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=F:\project\NetEase_OPenCV_FaceDetection\app\build\intermediates\cmake\release\obj\x86
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=E:\sdk\android-ndk-r16b
+-DCMAKE_CXX_FLAGS=-frtti -fexceptions
+-DCMAKE_TOOLCHAIN_FILE=E:\sdk\android-ndk-r16b\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=E:\sdk\cmake\3.6.4111459\bin\ninja.exe
+-GAndroid Gradle - Ninja
+-DANDROID_STL=gnustl_static
+jvmArgs : 
+
